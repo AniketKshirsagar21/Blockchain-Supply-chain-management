@@ -1,0 +1,9 @@
+.card_distributor{
+    width: 18rem;
+    /* height: 20rem; */
+    margin: 3rem;
+}
+
+.distributor-container{
+    display: flex;
+}

@@ -1,0 +1,16 @@
+.card-body{
+    text-align: center;
+    /* background-color: ; */
+}
+.img {
+    background: url(http://placehold.it/50x50);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    overflow:hidden;
+    -webkit-border-radius:100%;
+    -moz-border-radius:100%;
+    border-radius:100%;
+    width:90px;
+    height:250px;
+}

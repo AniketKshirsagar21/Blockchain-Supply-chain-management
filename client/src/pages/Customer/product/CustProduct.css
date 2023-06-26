@@ -1,0 +1,9 @@
+.product-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 100%;
+    align-items: center;
+    background-color: rgb(187, 227, 252);
+}
